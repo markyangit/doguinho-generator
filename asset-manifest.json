@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/doguinho-generator/static/css/main.8ff2955d.chunk.css",
+    "main.js": "/doguinho-generator/static/js/main.84002bf9.chunk.js",
+    "main.js.map": "/doguinho-generator/static/js/main.84002bf9.chunk.js.map",
+    "runtime-main.js": "/doguinho-generator/static/js/runtime-main.26ecf8d1.js",
+    "runtime-main.js.map": "/doguinho-generator/static/js/runtime-main.26ecf8d1.js.map",
+    "static/js/2.a69c8a7e.chunk.js": "/doguinho-generator/static/js/2.a69c8a7e.chunk.js",
+    "static/js/2.a69c8a7e.chunk.js.map": "/doguinho-generator/static/js/2.a69c8a7e.chunk.js.map",
+    "index.html": "/doguinho-generator/index.html",
+    "static/css/main.8ff2955d.chunk.css.map": "/doguinho-generator/static/css/main.8ff2955d.chunk.css.map",
+    "static/js/2.a69c8a7e.chunk.js.LICENSE.txt": "/doguinho-generator/static/js/2.a69c8a7e.chunk.js.LICENSE.txt",
+    "static/media/panda.25575b20.jpeg": "/doguinho-generator/static/media/panda.25575b20.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26ecf8d1.js",
+    "static/js/2.a69c8a7e.chunk.js",
+    "static/css/main.8ff2955d.chunk.css",
+    "static/js/main.84002bf9.chunk.js"
+  ]
+}
